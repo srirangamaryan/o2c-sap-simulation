@@ -40,7 +40,7 @@ o2c-sap-sd/
 ## ▶️ Steps to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/o2c-sap-sd.git
+git clone https://github.com/srirangamaryan/o2c-sap-simulation.git
 cd o2c-sap-sd
 
 # 2. Run the Python script
