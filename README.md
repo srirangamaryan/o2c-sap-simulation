@@ -23,8 +23,8 @@ Python Script (run_o2c.py)
 ```
 o2c-sap-sd/
 ├── data/
-│   ├── raw/              ← Source CSV files (optional)
-│   └── processed/        ← o2c.db (auto-generated)
+│   ├── raw/             
+│   └── processed/        ← o2c.db 
 ├── scripts/
 │   ├── 01_create_tables.sql
 │   ├── 02_insert_data.sql
